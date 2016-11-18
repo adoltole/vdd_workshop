@@ -20,7 +20,7 @@
         "site_name": "Drupal 8",
         "site_mail": "box@example.com",
         "vhost": {
-          "document_root": "drupal8",
+          "document_root": "drupal8/drupal",
           "url": "drupal8.dev",
           "alias": ["www.drupal8.dev"]
         }
@@ -32,7 +32,7 @@
         "site_name": "Drupal 7",
         "site_mail": "box@example.com",
         "vhost": {
-          "document_root": "drupal7",
+          "document_root": "drupal7/drupal",
           "url": "drupal7.dev",
           "alias": ["www.drupal7.dev"]
         }
